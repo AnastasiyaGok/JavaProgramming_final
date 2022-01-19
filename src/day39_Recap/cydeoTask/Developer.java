@@ -11,7 +11,7 @@ public class Developer extends Employee{
     }
 
     public void work() {
-        System.out.println(getJobTitle()+" "+getName()+" is developing the applications");;
+        System.out.println(getJobTitle()+" "+getName()+" is developing applications");;
     }
 }
 /*
