@@ -1,7 +1,5 @@
 package utilities;
 
-import day40_FinalKeyword.ProtectedAccessModifier;
-
 public class AccessModifierTest3 {
     public static void main(String[] args) {
 
