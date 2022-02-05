@@ -1,4 +1,4 @@
-package day36_Inheritance.employeeTask;
+package day38_Inheritance.day36_Inheritance.employeeTask;
 
 public class Teacher extends Employee{
 

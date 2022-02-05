@@ -1,4 +1,4 @@
-package day36_Inheritance.animalTask;
+package day38_Inheritance.day36_Inheritance.animalTask;
 
 public class Cat extends Animal{
 
