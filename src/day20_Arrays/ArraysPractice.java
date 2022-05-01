@@ -36,7 +36,7 @@ public class ArraysPractice {
         System.out.println(months[10]);
         System.out.println(months[11]);
 */
-        for(int i = 0; i < months.length; i++){ //i represents the index numbers of array starting from 0
+        for(int i = 0; i < months.length; i++){ //it represents the index numbers of array starting from 0
             System.out.println(months[i]);
         }
 
