@@ -18,7 +18,7 @@ public class ArraysIntro {
 
         System.out.println("------------------------------------------------------------");
 
-        String[] days = {"Monday", "Tuesday", "Wednrsday", "Thursday", "Friday", "Saturday", "Sunday"};
+        String[] days = {"Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"};
         //index             0         1          2             3          4         5           6
         System.out.println(Arrays.toString(days));
 
